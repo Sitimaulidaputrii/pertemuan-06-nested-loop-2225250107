@@ -53,3 +53,7 @@ Untuk input n, loop luar berjalan sebanyak n kali. Pada setiap iterasi loop luar
 ## Refleksi
 
 Pada pertemuan 06, saya belajar lebih memahami cara kerja nested loop, terutama hubungan antara loop luar dan loop dalam. Salah satu kesalahan yang saya temukan adalah menempatkan total_baris = 0 pada posisi yang salah. Kesalahan tersebut diperbaiki dengan menempatkan total_baris = 0 di dalam loop luar sebelum loop dalam dimulai. Dari proses ini, saya jadi memahami bahwa posisi suatu variabel dalam nested loop dapat mempengaruhi hasil program. Saya juga jadi lebih memahami penggunaan akumulator untuk menjumlahkan hasil dan counter untuk menghitung banyaknya hasil yang memenuhi kondisi.
+
+## Sumber
+
+Materi pertemuan 06 Algoritma dan Pemrograman: Nested loop, Pola, Akumulasi, dan Pencacahan dalam Python di VS Code dan Pengumpulan melalui GitHub
